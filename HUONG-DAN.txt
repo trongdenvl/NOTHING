@@ -1,0 +1,6 @@
+CÁCH DÙNG
+1. Bỏ ảnh vào thư mục images/ , đặt tên 1.jpg, 2.jpg, 3.jpg ... (tối đa 40 ảnh, ảnh 1.jpg dùng làm hình trái tim ghép).
+2. (Tuỳ chọn) Bỏ bài nhạc vào cạnh index.html, đặt tên music.mp3.
+3. Mở index.html, sửa khối CFG ở đầu phần <script>: lời nhắn, phụ đề, nội dung lá thư, tên người ký ("Anh,").
+4. Xem thử bằng VS Code Live Server (hoặc hosting) để ảnh tải đúng.
+5. Để tặng: kéo thả cả thư mục lên https://app.netlify.com/drop (miễn phí) -> nhận link gửi cho người ấy.
